@@ -1,0 +1,2 @@
+# Hierarchical-Clustering
+Cereals.csv contains information on 77 different cereals and their characteristics. For the analysis, all cereals with missing values were removed, hierarchical clustering was applied to the data using Euclidean distance, and normalised measurements. Finally, the dendograms for single and complete linkages were compared and a recommendation for the number of clusters and cluster membership was determined.
